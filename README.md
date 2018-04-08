@@ -1,11 +1,14 @@
-#CSC 690 Final Project
-#Team Members:
+# CSC 690 Final Project
+# Team Members:
 Marcelo Coronado
-#Proposal:
+# Proposal:
 Must Have:
+
 -Image search
 -Image gallery
+
 Nice to have: 
+
 -Image storage (download)
 -Image upload 
 -search term filter options
